@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Frintezza</string>
+    <string name="hint_login">Введите свой логин</string>
+    <string name="hint_password">Введите свой пароль</string>
+    <string name="btnLogin">Войти</string>
+</resources>
